@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*~
+*.swp
+*.swo
+*.tmp
+
+# Vim session files
+Session.vim
+
+# Local test files
+*.log
+*.json
+
+# Python cache (if you later add Python helper)
+__pycache__/
+*.pyc
+
+# Environment files (if Gemini keys are stored locally)
+.env
+.env.*
+
